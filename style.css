@@ -9,56 +9,50 @@ h1{
 }
 
 .cropmj {
-    width: 450px;
-    height: 280px;
+    width: 100%;
+    height: 300px;
     overflow: hidden;
 }
 
 .cropmj img {
-    width: 400px;
+    width: 100%;
     height: 300px;
     margin: -75px 0 0 -100px;
 }
 
 .croplbj {
-    width: 450px;
-    height: 280px;
+    width: 100%;
+    height: 300px;
     overflow: hidden;
 }
 
 .crolbj img {
-    width: 400px;
+    width: 100%;
     height: 300px;
     margin: -75px 0 0 -100px;
 }
 
-.vertical-line{
-    display: inline-block;
-    border-left: 2px solid black;
-    margin: 0 10px;
-    height: 280px;
-}
 
 .lbj{
-    margin-left: 10%;
-    width: 450px;
+    margin-left: 0%;
+    width: 90%;
     text-align: center;
     background-color: aliceblue;
     border: 2px solid mediumblue;
 }
 
 .mj{
-    margin-left: 40%;
-    width: 450px;
+    margin-left: 0%;
+    width: 90%;
     text-align: center;
     background-color: antiquewhite;
     border: 2px solid mediumblue;
 }
 
 #main { 
-    width: 50%;
+    width: 80%;
     margin: 0 auto;
-    margin-left: 17%;
+    margin-left: 12%;
 }
 
 .goat{
@@ -84,4 +78,6 @@ li {
 .lose{
     color: #AA0000;
 }
+
+
 
